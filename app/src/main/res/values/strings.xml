@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OffMAp</string>
+    <string name="user_name">user Name</string>
+    <string name="login">LOGIN</string>
+    <string name="exit">EXIT</string>
+    <string name="map_position">MAP POSITION</string>
+    <string name="attendance">ATTENDANCE</string>
+    <string name="report">REPORT</string>
+    <string name="notes">NOTES</string>
+    <string name="emergency_attendance">EMERGENCY ATTENDANCE</string>
+    <string name="data_sync">DATA SYNC</string>
+</resources>
